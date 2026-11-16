@@ -1,0 +1,2 @@
+# 保持字节原样入库：core.autocrlf=true 会改写 CRLF 文件，导致 VERSION_HASH.md 的 SHA-256 失配
+* -text
