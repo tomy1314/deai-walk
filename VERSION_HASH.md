@@ -5,11 +5,12 @@
 
 - 生成时间：2026-11-01 22:57:35
 - 扫描目录：`C:/Users/HBBW2/.workbuddy/skills\熊AI走`
-- 文件总数：18（含本文件，下表 17 项）
+- 文件总数：19（含本文件，下表 18 项）
 
 | 相对路径 | SHA-256 |
 |---|---|
 | `LICENSE` | `57e80391d1fba4234409fb48947f30e1769809b29f4b6b437bd60cfd3699dc6a` |
+| `README.md` | `14a8522037c3ceeb6f4d7210baf6f935f2b4fff2d8b5802d7c769c14038d2d7e` |
 | `SKILL.md` | `cb3ba810e2aa914d3dd037145391bc582021233a02ee751f3f41630f6628daa0` |
 | `persona_overlay.md` | `8ba4e6852688e9f501742d57fdda92f3882531ef0a012b849ca2415b142b0152` |
 | `references/adjudication.md` | `cf3ee1f0fa5773982fe2d35b8279fdb44f8d07e87f1903a3c9e7ace4f0aadb19` |
